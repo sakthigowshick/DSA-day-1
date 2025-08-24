@@ -1,0 +1,12 @@
+a=5
+print(type(a))
+b=0.102
+print(type(b))
+c="Sakthi Gowshick"
+print(type(c))
+d='k'
+print(type(d))
+e=1-2j
+print(type(e))
+f=True
+print(type(f))
